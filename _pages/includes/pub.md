@@ -1,6 +1,6 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
+## Image Restoration
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/fs.png' alt="sym" width="100%"></div>
