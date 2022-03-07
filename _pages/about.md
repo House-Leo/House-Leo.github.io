@@ -19,4 +19,6 @@ Thanks for RayeRen's open-sourced template project [AcadHomepage ![](https://img
 
 {% include_relative includes/honers.md %}
 
+{% include_relative includes/project.md %}
+
 {% include_relative includes/others.md %}
