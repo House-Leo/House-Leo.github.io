@@ -1,7 +1,5 @@
 
 # 📝 Publications 
-## 🎙 Speech Synthesis
-
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/fs.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
