@@ -3,6 +3,6 @@ I have got my B.E. degree from [Guangdong University of Technology (GDUT)](https
 
 Research interest: image restoration (e.g. denoising/super-resolution), out-of-distribution, semi-supervised learning. 
 
-***Never stop looking for collaboration, kindly contact me via email.***
+I will join **[IMAG](https://imag-njust.net/)** in September 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
 
-I have got the Ph.D offer from [Nanjing University of Science and Technology](http://www.njust.edu.cn/), and I will join **[IMAG](https://imag-njust.net/)** in September 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
+***Never stop looking for collaboration, kindly contact me via email.***
