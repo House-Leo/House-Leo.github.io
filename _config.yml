@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "House-Lee (Hao Li)"
-description              : "Pre Ph.D candidate of Nanjing University of Science and Technology. Focus on low-level vision, especially image denoising and super resolution."
+description              : "Ph.D candidate of Nanjing University of Science and Technology. Focus on low-level vision, especially image denoising and super resolution."
 repository               : "House-Leo/House-Leo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Li"
   avatar           : "images/lihao.jpg"
-  bio              : "Guangdong University of Technology"
-  location         : "Guangzhou, China"
+  bio              : "Nanjing University of Science and Technology"
+  location         : "Nanjing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x2qkLiYAAAAJ" 

@@ -1,8 +1,6 @@
 
-I have got my B.E. degree from [Guangdong University of Technology (GDUT)](https://gdut.edu.cn). Currently I am a third-year master candidate in the School of Information Engineering, GDUT, advised by [Prof. Zhijing Yang](https://yzw.gdut.edu.cn/info/1118/2031.htm) and [Dr. Yukai Shi](https://ykshi.github.io). I also collaborate with [Prof. Jinshan Pan](https://jspan.github.io) from [Nanjing University of Science and Technology](https://njust.edu.cn) closely. 
+I have got my B.E. and M.S. degree from [Guangdong University of Technology (GDUT)](https://gdut.edu.cn). Currently I am a first-year Ph.D. candidate in the School of Computer Science and Engineering, Nanjing University of Science and Technology, advised by [Prof. Jinshan Pan](https://jspan.github.io/). I also collaborate with [Dr. Yukai Shi](https://ykshi.github.io) from [GDUT](https://gdut.edu.cn) and [Xiang Chen](https://cxtalk.github.io) from [IMAG](https://imag-njust.net/) closely. 
 
 Research interest: image restoration (e.g. denoising/super-resolution), out-of-distribution, semi-supervised learning. 
-
-I will join **[IMAG](https://imag-njust.net/)** in September 2022, advised by [Prof. Jinshan Pan](https://jspan.github.io/).
 
 ***Never stop looking for collaboration, kindly contact me via email.***
