@@ -15,10 +15,14 @@
 </div> -->
 
 #### Image Super-Resolution
-- ***Real-World Image Super-Resolution by Exclusionary Dual-Learning***, **Hao Li**, Jinghui Qin, Yukai Shi, Zhijing Yang, Pengxu Wei, Jinshan Pan, Liang Lin, IEEE TMM 2022.
-- ***Contrastive Multitask Learning for Real-World Image Super-Resolution***, Yukai Shi, **Hao Li**, Zhijing Yang, Liang Lin, Preprint.
-- ***NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results***, Lugmayr Andreas, Martin Danelljan, **Hao Li**, et al, CVPRW 2020.
-- ***AIM 2020 Challenge on Real Image Super-Resolution: Methods and Results***, Pengxu Wei, **Hao Li**, et al., ECCVW 2020
+- ***Real-World Image Super-Resolution by Exclusionary Dual-Learning***, **Hao Li**, Jinghui Qin, Yukai Shi, Zhijing Yang, Pengxu Wei, Jinshan Pan, Liang Lin, IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/2206.02609)] [[code](https://github.com/House-Leo/RWSR-EDL)]
+- ***Criteria Comparative Learning for Real-scene Image Super-Resolution***, Yukai Shi, **Hao Li**, Sen Zhang, Zhijing Yang, Xiao Wang, IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), Major Revision, 2022.
+- ***NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results***, Lugmayr Andreas, Martin Danelljan, **Hao Li**, et al, CVPR Workshops 2020.
+- ***AIM 2020 Challenge on Real Image Super-Resolution: Methods and Results***, Pengxu Wei, **Hao Li**, et al., ECCV Workshops 2020
   
 #### Image Denoising
-- ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer***, **Hao Li**, Zhijing Yang, Xiaobin Hong, Yukai Shi, Junyang Chen, Jinshan Pan, KBS 2022.
+- ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer***, **Hao Li**, Zhijing Yang, Xiaobin Hong, Yukai Shi, Junyang Chen, Jinshan Pan, Knowledge-Based Systems (KBS), 2022.
+
+#### Point Cloud
+- ***3DPCTN: Two 3D Local-Object Point-Cloud-Completion Transformer Networks Based on Self-Attention and Multi-Resolution***
+Shuyan Huang, Zhijing Yang, Yukai Shi, Junpeng Tan, **Hao Li**, Yongqiang Chen, Electronics, 2022. [[pdf](https://www.mdpi.com/2079-9292/11/9/1351)]
