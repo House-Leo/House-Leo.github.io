@@ -39,6 +39,6 @@ CVPR Workshops, 2020. [[pdf](http://openaccess.thecvf.com/content_CVPRW_2020/htm
 - ***AIM 2020 Challenge on Real Image Super-Resolution: Methods and Results*** \
 Pengxu Wei, Hannan Lu, **Hao Li**, et al. \
 ECCV Workshops, 2020. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_24)]
-- ***Ntire 2022 challenge on efficient super-resolution: Methods and results*** \
+- ***Ntire 2022 Challenge on Efficient Super-Resolution: Methods and Results*** \
 Yawei Li, Kai Zhang, **Hao Li**, et al. \
 CVPR Workshops, 2022.
