@@ -13,5 +13,6 @@
 - IEEE Transactions on Neural Network and Learning System (T-NNLS)
 - Pattern Recognition (PR)
 
-# 💻 Internships
-- I'm working on it.
+# 👯 Cooperation & Communication
+- GDUT: [Dr. Yukai Shi](https://ykshi.github.io)
+- NJUST: [Xiang Chen](https://cxtalk.github.io), [Long Sun](https://github.com/sunny2109)
