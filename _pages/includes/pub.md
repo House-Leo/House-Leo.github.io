@@ -41,4 +41,4 @@ Pengxu Wei, Hannan Lu, **Hao Li**, et al. \
 ECCV Workshops, 2020. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_24)]
 - ***Ntire 2022 Challenge on Efficient Super-Resolution: Methods and Results*** \
 Yawei Li, Kai Zhang, **Hao Li**, et al. \
-CVPR Workshops, 2022.
+CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Li_NTIRE_2022_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.html)]
