@@ -21,11 +21,14 @@ IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/220
 - ***Criteria Comparative Learning for Real-scene Image Super-Resolution*** \
 Yukai Shi, **Hao Li**, Sen Zhang, Zhijing Yang, Xiao Wang \
 IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), *Major Revision*, 2022.
-  
+- ***Progressive Representation Recalibration for Lightweight Super-resolution*** \
+Ruimian Wen, Zhijing Yang, Tianshui Chen, **Hao Li**, Kai Li \
+Neurocomputing, 2022. [[code](https://github.com/House-Leo/PRRN)] **(NTIRE 2022 Efficient SR, Top 20)**
+
 #### Image Denoising
 - ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer*** \
 **Hao Li**, Zhijing Yang, Xiaobin Hong, Yukai Shi, Junyang Chen, Jinshan Pan \
-Knowledge-Based Systems (KBS), *Under Review*, 2022.
+Knowledge-Based Systems (KBS), *Major Revision*, 2022.
 
 #### Point Cloud
 - ***3DPCTN: Two 3D Local-Object Point-Cloud-Completion Transformer Networks Based on Self-Attention and Multi-Resolution*** \
