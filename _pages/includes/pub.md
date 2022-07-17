@@ -19,7 +19,7 @@
 **Hao Li**, Jinghui Qin, Yukai Shi, Zhijing Yang, Pengxu Wei, Jinshan Pan, Liang Lin \
 IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/2206.02609)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9792626/)] [[code](https://github.com/House-Leo/RWSR-EDL)]
 - ***Criteria Comparative Learning for Real-scene Image Super-Resolution*** \
-Yukai Shi, **Hao Li**, Sen Zhang, Zhijing Yang, Xiao Wang \
+Yukai Shi<sup>$*$</sup>, **Hao Li**<sup>$*$</sup>, Sen Zhang, Zhijing Yang, Xiao Wang \
 IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), *Major Revision*, 2022.
 - ***Progressive Representation Recalibration for Lightweight Super-resolution*** \
 Ruimian Wen, Zhijing Yang, Tianshui Chen, **Hao Li**, Kai Li \
@@ -45,3 +45,5 @@ ECCV Workshops, 2020. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030
 - ***Ntire 2022 Challenge on Efficient Super-Resolution: Methods and Results*** \
 Yawei Li, Kai Zhang, **Hao Li**, et al. \
 CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Li_NTIRE_2022_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.html)]
+
+**(<sup>$*$</sup> equal contribution, <sup>#</sup> corresponding author)**
