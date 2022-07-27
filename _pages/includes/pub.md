@@ -13,6 +13,7 @@
 - **Industry Impact**: FastSpeech has been deployed in [Microsoft Azure TTS service](https://techcommunity.microsoft.com/t5/azure-ai/neural-text-to-speech-extends-support-to-15-more-languages-with/ba-p/1505911) and supports 49 more languages with state-of-the-art AI quality. It was also shown as a text-to-speech system acceleration example in [NVIDIA GTC2020](https://resources.nvidia.com/events/GTC2020s21420).
 </div>
 </div> -->
+### **(<sup>$*$</sup> equal contribution, <sup>#</sup> corresponding author)**
 
 #### Image Super-Resolution
 - ***Real-World Image Super-Resolution by Exclusionary Dual-Learning*** \
@@ -45,5 +46,3 @@ ECCV Workshops, 2020. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030
 - ***Ntire 2022 Challenge on Efficient Super-Resolution: Methods and Results*** \
 Yawei Li, Kai Zhang, **Hao Li**, et al. \
 CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Li_NTIRE_2022_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.html)]
-
-**(<sup>$*$</sup> equal contribution, <sup>#</sup> corresponding author)**
