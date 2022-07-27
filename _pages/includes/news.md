@@ -1,5 +1,5 @@
 # 🔥 News
-- *2022.06*: 🎉🎉 One paper about ***comparative Learning for super-resolution*** got the **minor revision** by IEEE TCSVT, and the testing code was released in [RealSR-CCL](https://github.com/House-Leo/RealSR-CCL).
+- *2022.07*: 🎉🎉 One paper about ***comparative Learning for super-resolution*** got the **minor revision** by IEEE TCSVT, and the testing code was released in [RealSR-CCL](https://github.com/House-Leo/RealSR-CCL).
 - *2022.07*: ⚡⚡ We have released the [RealSR-Zero dataset](https://github.com/House-Leo/RealSR-Zero) for ***real-scene image SR*** testing.
 - *2022.07*: 🎉🎉 One paper about ***efficient super-resolution*** was accpeted by Neurocomputing [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231222009080)], and the testing code was released in [PRRN](https://github.com/House-Leo/PRRN).
 - *2022.06*: 🎉🎉 One paper about ***real world image denoising*** got the **major revision** by KBS.
