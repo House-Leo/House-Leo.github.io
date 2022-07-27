@@ -20,7 +20,7 @@
 IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/2206.02609)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9792626/)] [[code](https://github.com/House-Leo/RWSR-EDL)]
 - ***Criteria Comparative Learning for Real-scene Image Super-Resolution*** \
 Yukai Shi\*, **Hao Li**\*, Sen Zhang, Zhijing Yang, Xiao Wang \
-IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), *Major Revision*, 2022. [[RealSR-Zero dataset](https://github.com/House-Leo/RealSR-Zero)]
+IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), *Minor Revision*, 2022. [[arxiv](https://arxiv.org/abs/2207.12767)] [[RealSR-Zero dataset](https://github.com/House-Leo/RealSR-Zero)] [[code](https://github.com/House-Leo/RealSR-CCL)]
 - ***Progressive Representation Recalibration for Lightweight Super-resolution*** \
 Ruimian Wen, Zhijing Yang, Tianshui Chen, **Hao Li**, Kai Li \
 Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231222009080)] [[code](https://github.com/House-Leo/PRRN)] **(NTIRE 2022 Efficient SR, Top 20)**
