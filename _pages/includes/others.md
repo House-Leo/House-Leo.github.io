@@ -6,7 +6,8 @@
 
 # 📫 Academic Services
 ## Conference Reviewer
-- European Conference on Computer Vision (ECCV 2022)
+- AAAI 2023
+- ECCV 2022
 
 ## Journal Reviewer
 - IEEE Transactions on Multimedia (T-MM)
