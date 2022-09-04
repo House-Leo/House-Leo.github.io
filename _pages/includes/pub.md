@@ -29,7 +29,7 @@ Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S
 #### Image Denoising
 - ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer*** \
 **Hao Li**, Zhijing Yang, Xiaobin Hong, Yukai Shi, Junyang Chen, Jinshan Pan \
-Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)]
+Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)] [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)] [[code](https://github.com/House-Leo/DnSwin)]
 
 #### Point Cloud
 - ***3DPCTN: Two 3D Local-Object Point-Cloud-Completion Transformer Networks Based on Self-Attention and Multi-Resolution*** \
