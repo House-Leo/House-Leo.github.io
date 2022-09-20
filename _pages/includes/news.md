@@ -1,5 +1,5 @@
 # 🔥 News
-- *2022.08*: 🎉🎉 One paper about ***real world image denosing*** was accpeted by KBS [[pdf](https://arxiv.org/abs/2207.13861)], and the training code was released in [DnSwin](https://github.com/House-Leo/DnSwin).
+- *2022.08*: 🎉🎉 One paper about ***real world image denosing*** was accpeted by KBS [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)], and the training code was released in [DnSwin](https://github.com/House-Leo/DnSwin).
 - *2022.08*: 🎉🎉 I was invited to serve as a reviewer for AAAI-23.
 - *2022.07*: 🎉🎉 One paper about ***comparative Learning for super-resolution*** was accpeted by IEEE TCSVT [[pdf](https://ieeexplore.ieee.org/document/9847265)], and the testing code was released in [RealSR-CCL](https://github.com/House-Leo/RealSR-CCL).
 - *2022.07*: ⚡⚡ We have released the [RealSR-Zero dataset](https://github.com/House-Leo/RealSR-Zero) for ***real-scene image SR*** testing.
