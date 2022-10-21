@@ -6,6 +6,7 @@
 
 # 📫 Academic Services
 ## Conference Reviewer
+- CVPR 2023
 - AAAI 2023
 - ECCV 2022
 

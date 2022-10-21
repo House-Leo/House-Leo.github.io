@@ -31,6 +31,11 @@ Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S
 **Hao Li**, Zhijing Yang, Xiaobin Hong, Yukai Shi, Junyang Chen, Jinshan Pan \
 Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)] [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)] [[code](https://github.com/House-Leo/DnSwin)]
 
+#### Virtual Try-on
+- ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
+Zhijing Yang, Junyang Chen, Yukai Shi, **Hao Li**, Tianshui Chen, Liang Lin \ 
+IEEE Transactions on Multimedia (T-MM), *major revision*, 2022.
+
 #### Point Cloud
 - ***3DPCTN: Two 3D Local-Object Point-Cloud-Completion Transformer Networks Based on Self-Attention and Multi-Resolution*** \
 Shuyan Huang, Zhijing Yang, Yukai Shi, Junpeng Tan, **Hao Li**, Yongqiang Chen \
