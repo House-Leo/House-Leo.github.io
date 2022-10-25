@@ -33,7 +33,7 @@ Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)]
 
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
-Zhijing Yang, Junyang Chen, Yukai Shi, **Hao Li**, Tianshui Chen, Liang Lin \ 
+Zhijing Yang, Junyang Chen, Yukai Shi, **Hao Li**, Tianshui Chen, Liang Lin \
 IEEE Transactions on Multimedia (T-MM), *major revision*, 2022.
 
 #### Point Cloud
