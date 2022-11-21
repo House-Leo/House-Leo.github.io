@@ -16,5 +16,5 @@
 - Pattern Recognition (PR)
 
 # 👯 Cooperation and Communication
-- GDUT: [Dr. Yukai Shi](https://ykshi.github.io)
+- GDUT: [Dr. Yukai Shi](https://ykshi.github.io), [Junyang Chen](https://jychen9811.github.io/)
 - NJUST: [Xiang Chen](https://cschenxiang.github.io), [Long Sun](https://github.com/sunny2109)
