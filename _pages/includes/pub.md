@@ -20,7 +20,7 @@
 
 #### Image Super-Resolution
 - ***Real-World Image Super-Resolution by Exclusionary Dual-Learning*** \
-**Hao Li**, Jinghui Qin, [Yukai Shi](https://ykshi.github.io), Zhijing Yang, Pengxu Wei, [Jinshan Pan](https://jspan.github.io), [Liang Lin](https://www.linliang.net) \
+**Hao Li**, Jinghui Qin, [Yukai Shi](https://ykshi.github.io), Zhijing Yang, Pengxu Wei, [Jinshan Pan](https://jspan.github.io), [Liang Lin](www.linliang.net) \
 IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/2206.02609)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9792626/)] [[code](https://github.com/House-Leo/RWSR-EDL)]
 - ***Criteria Comparative Learning for Real-scene Image Super-Resolution*** \
 [Yukai Shi](https://ykshi.github.io)\*, **Hao Li**\*, [Sen Zhang](https://scholar.google.com.au/citations?user=-bJJNV0AAAAJ&hl=en), Zhijing Yang, [Xiao Wang](https://wangxiao5791509.github.io/) \
@@ -36,7 +36,7 @@ Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)]
 
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
-Zhijing Yang, [Junyang Chen](https://jychen9811.github.io/), [Yukai Shi](https://ykshi.github.io), **Hao Li**, [Tianshui Chen](http://tianshuichen.com/), [Liang Lin](https://www.linliang.net) \
+Zhijing Yang, [Junyang Chen](https://jychen9811.github.io/), [Yukai Shi](https://ykshi.github.io), **Hao Li**, [Tianshui Chen](http://tianshuichen.com/), [Liang Lin](www.linliang.net) \
 IEEE Transactions on Multimedia (T-MM), *major revision*, 2022.
 
 ## Conference
