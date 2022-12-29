@@ -37,7 +37,7 @@ Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)]
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
 Zhijing Yang, [Junyang Chen](https://jychen9811.github.io/), [Yukai Shi](https://ykshi.github.io), **Hao Li**, [Tianshui Chen](http://tianshuichen.com/), [Liang Lin](www.linliang.net) \
-IEEE Transactions on Multimedia (T-MM), *major revision*, 2022.
+IEEE Transactions on Multimedia (T-MM), 2022.
 
 ## Conference
 
