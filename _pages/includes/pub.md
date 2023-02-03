@@ -16,6 +16,13 @@
 
 ### **(<sup>$*$</sup> equal contribution, <sup>#</sup> corresponding author)**
 
+## Conference
+
+#### Image Deraining
+- ***Hybrid CNN-Transformer Feature Fusion for Single Image Deraining*** **(Oral)** \
+[Xiang Chen](https://cschenxiang.github.io), [Jinshan Pan](https://jspan.github.io), Jiyang Lu, Zhentao Fan, **Hao Li** \
+AAAI, 2023. [[code](https://github.com/cschenxiang/HCT-FFN)]
+
 ## Journal
 
 #### Image Super-Resolution
@@ -27,7 +34,7 @@ IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/220
 IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2022. [[arxiv](https://arxiv.org/abs/2207.12767)] [[IEEE](https://ieeexplore.ieee.org/document/9847265)] [[RealSR-Zero dataset](https://github.com/House-Leo/RealSR-Zero)] [[code](https://github.com/House-Leo/RealSR-CCL)]
 - ***Progressive Representation Recalibration for Lightweight Super-resolution*** \
 Ruimian Wen, Zhijing Yang, [Tianshui Chen](http://tianshuichen.com/), **Hao Li**, Kai Li \
-Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231222009080)] [[code](https://github.com/House-Leo/PRRN)] **(NTIRE 2022 Efficient SR, Top 20)**
+Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231222009080)] [[code](https://github.com/House-Leo/PRRN)]
 
 #### Image Denoising
 - ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer*** \
@@ -39,20 +46,12 @@ Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)]
 Zhijing Yang, [Junyang Chen](https://jychen9811.github.io/), [Yukai Shi](https://ykshi.github.io), **Hao Li**, [Tianshui Chen](http://tianshuichen.com/), [Liang Lin](www.linliang.net) \
 IEEE Transactions on Multimedia (T-MM), 2022. [[IEEE](https://ieeexplore.ieee.org/document/10007844)] [[code](https://github.com/JyChen9811/DOC-VTON)]
 
-## Conference
-
-#### Image Deraining
-- ***Hybrid CNN-Transformer Feature Fusion for Single Image Deraining*** \
-[Xiang Chen](https://cschenxiang.github.io), [Jinshan Pan](https://jspan.github.io), Jiyang Lu, Zhentao Fan, **Hao Li** \
-AAAI, 2023.
-
-
 <!-- #### Point Cloud
 - ***3DPCTN: Two 3D Local-Object Point-Cloud-Completion Transformer Networks Based on Self-Attention and Multi-Resolution*** \
 Shuyan Huang, Zhijing Yang, Yukai Shi, Junpeng Tan, **Hao Li**, Yongqiang Chen \
 Electronics, 2022. [[pdf](https://www.mdpi.com/2079-9292/11/9/1351)] -->
 
-#### Challenge Report
+<!-- #### Challenge Report
 - ***NTIRE 2020 Challenge on Real-World Image Super-Resolution: Methods and Results*** \
 Lugmayr Andreas, Martin Danelljan, **Hao Li**, et al. \
 CVPR Workshops, 2020. [[pdf](http://openaccess.thecvf.com/content_CVPRW_2020/html/w31/Lugmayr_NTIRE_2020_Challenge_on_Real-World_Image_Super-Resolution_Methods_and_Results_CVPRW_2020_paper.html)]
@@ -61,4 +60,4 @@ Pengxu Wei, Hannan Lu, **Hao Li**, et al. \
 ECCV Workshops, 2020. [[pdf](https://link.springer.com/chapter/10.1007/978-3-030-67070-2_24)]
 - ***Ntire 2022 Challenge on Efficient Super-Resolution: Methods and Results*** \
 Yawei Li, Kai Zhang, **Hao Li**, et al. \
-CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Li_NTIRE_2022_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.html)]
+CVPR Workshops, 2022. [[pdf](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/html/Li_NTIRE_2022_Challenge_on_Efficient_Super-Resolution_Methods_and_Results_CVPRW_2022_paper.html)] -->
