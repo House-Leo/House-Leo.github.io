@@ -1,5 +1,5 @@
 # 🔥 News
-- *2023.03*: 🎉🎉 Our [paper](https://arxiv.org/abs/2303.11950) about ***image deraining*** was selected as a <font color=red>**highlight**</font> at CVPR 2023, congrats to [Xiang](https://cschenxiang.github.io).
+- *2023.03*: 🎉🎉 Our [paper](https://arxiv.org/abs/2303.11950) about ***image deraining*** was selected as a <font color=red>highlight</font> at CVPR 2023, congrats to [Xiang](https://cschenxiang.github.io).
 - *2023.03*: 🎉🎉 I was invited to serve as a reviewer for ICCV 2023.
 - *2023.02*: 🎉🎉 One paper about ***image deraining*** was accpeted by CVPR 2023, congrats to Xiang.
 - *2022.12*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM, congrats to Junyang.
