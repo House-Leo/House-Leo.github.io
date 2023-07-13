@@ -15,7 +15,9 @@
 - IEEE Transactions on Multimedia (T-MM)
 - IEEE Transactions on Neural Network and Learning System (T-NNLS)
 - Pattern Recognition (PR)
+- Computer Vision and Image Understanding (CVIU)
+- The Visual Computer (TVCJ)
 
 # 👯 Cooperation and Communication
 - GDUT: [Dr. Yukai Shi](https://ykshi.github.io), [Junyang Chen](https://jychen9811.github.io/)
-- NJUST: [Xiang Chen](https://cschenxiang.github.io), [Long Sun](https://github.com/sunny2109)
+- NJUST: [Xiang Chen](https://cschenxiang.github.io), [Long Sun](https://github.com/sunny2109), [Haoran Bai](https://csbhr.github.io/)
