@@ -21,10 +21,10 @@
 #### Image Deraining
 - ***Learning A Sparse Transformer Network for Effective Image Deraining*** **(Highlight)** \
 [Xiang Chen](https://cschenxiang.github.io), **Hao Li**, Mingqiang Li, [Jinshan Pan](https://jspan.github.io) \
-CVPR, 2023. [[arxiv](https://arxiv.org/abs/2303.11950)] [[code](https://github.com/cschenxiang/DRSformer)]
+CVPR, 2023. [[pdf](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.11950)] [[code](https://github.com/cschenxiang/DRSformer)]
 - ***Hybrid CNN-Transformer Feature Fusion for Single Image Deraining*** **(Oral)** \
 [Xiang Chen](https://cschenxiang.github.io), [Jinshan Pan](https://jspan.github.io), Jiyang Lu, Zhentao Fan, **Hao Li** \
-AAAI, 2023. [[code](https://github.com/cschenxiang/HCT-FFN)]
+AAAI, 2023. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/25111)] [[code](https://github.com/cschenxiang/HCT-FFN)]
 
 ## Journal
 
