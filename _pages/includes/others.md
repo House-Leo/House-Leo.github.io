@@ -8,7 +8,7 @@
 ## Conference Reviewer
 - ICCV 2023
 - CVPR 2023
-- AAAI 2023
+- AAAI 2023, 2024
 - ECCV 2022
 
 ## Journal Reviewer
