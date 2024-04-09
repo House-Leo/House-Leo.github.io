@@ -16,6 +16,11 @@
 
 ### **(<sup>$*$</sup> equal contribution, <sup>#</sup> corresponding author)**
 
+## Preprint
+- ***Collaborative Feedback Discriminative Propagation for Video Super-Resolution***\
+**Hao Li**, [Xiang Chen](https://cschenxiang.github.io), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io) \
+arxiv, 2024. [[arxiv](https://arxiv.org/abs/2404.04745)] [[code](https://github.com/House-Leo/CFDVSR)]
+
 ## Conference
 
 #### Image Deraining

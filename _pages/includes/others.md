@@ -6,12 +6,14 @@
 
 # 📫 Academic Services
 ## Conference Reviewer
+- CVPR 2023, 2024
 - ICCV 2023
-- CVPR 2023
+- ECCV 2022, 2024
 - AAAI 2023, 2024
-- ECCV 2022
 
 ## Journal Reviewer
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+- IEEE Transactions on Image Processing (T-IP)
 - IEEE Transactions on Multimedia (T-MM)
 - IEEE Transactions on Neural Network and Learning System (T-NNLS)
 - Pattern Recognition (PR)
@@ -19,5 +21,5 @@
 - The Visual Computer (TVCJ)
 
 # 👯 Cooperation and Communication
-- GDUT: [Dr. Yukai Shi](https://ykshi.github.io), [Junyang Chen](https://jychen9811.github.io/)
 - NJUST: [Xiang Chen](https://cschenxiang.github.io), [Long Sun](https://github.com/sunny2109), [Haoran Bai](https://csbhr.github.io/)
+- GDUT: [Dr. Yukai Shi](https://ykshi.github.io), [Junyang Chen](https://jychen9811.github.io/)
