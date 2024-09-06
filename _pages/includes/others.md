@@ -9,7 +9,7 @@
 - CVPR 2023, 2024
 - ICCV 2023
 - ECCV 2022, 2024
-- AAAI 2023, 2024
+- AAAI 2023, 2024, 2025
 
 ## Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
@@ -21,5 +21,5 @@
 - The Visual Computer (TVCJ)
 
 # 👯 Cooperation and Communication
-- NJUST: [Xiang Chen](https://cschenxiang.github.io), [Long Sun](https://github.com/sunny2109), [Haoran Bai](https://csbhr.github.io/)
-- GDUT: [Dr. Yukai Shi](https://ykshi.github.io), [Junyang Chen](https://jychen9811.github.io/)
+- NJUST: [Xiang Chen](https://cschenxiang.github.io), [Long Sun](https://github.com/sunny2109), [Haoran Bai](https://csbhr.github.io/), , [Junyang Chen](https://jychen9811.github.io/)
+- GDUT: [Dr. Yukai Shi](https://ykshi.github.io)
