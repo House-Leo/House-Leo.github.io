@@ -6,13 +6,15 @@
 
 # 📫 Academic Services
 ## Conference Reviewer
-- CVPR 2023, 2024
-- ICCV 2023
+- CVPR 2023, 2024, 2025
+- ICCV 2023, 2025
 - ECCV 2022, 2024
 - AAAI 2023, 2024, 2025
+- ACMMM 2025
 
 ## Journal Reviewer
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI)
+- International Journal of Computer Vision (IJCV)
 - IEEE Transactions on Image Processing (T-IP)
 - IEEE Transactions on Multimedia (T-MM)
 - IEEE Transactions on Neural Network and Learning System (T-NNLS)
