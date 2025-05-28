@@ -1,5 +1,5 @@
 # 🔥 News
-- *2024.04*: ⚡⚡One paper about ***universal image restoration*** was released on [arxiv](https://arxiv.org/abs/2412.01427). Welcome to visit our [project page](https://www.foundir.net).
+- *2024.12: ⚡⚡One paper about ***universal image restoration*** was released on [arxiv](https://arxiv.org/abs/2412.01427). Welcome to visit our [project page](https://www.foundir.net).
 - *2024.08*: ⚡⚡One paper about ***effcient video super-resolution*** was released on [arxiv](https://arxiv.org/abs/2408.14244).
 - *2024.04*: ⚡⚡One paper about ***video super-resolution*** was released on [arxiv](https://arxiv.org/abs/2404.04745).
 - *2023.03*: 🎉🎉 Our [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html) about ***image deraining*** was selected as a <font color=red>highlight</font> at CVPR 2023, congrats to [Xiang](https://cschenxiang.github.io).
