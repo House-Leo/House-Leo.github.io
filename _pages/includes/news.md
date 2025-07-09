@@ -1,5 +1,5 @@
 # 🔥 News
-- *2025.07*: 🎉🎉 Welcome to visit our website (专注底层视觉领域的信息服务平台) for low-level vision: [Low-Level CV](https://lowlevelcv.com/).
+- *2025.07*: 🎉🎉 Welcome to visit our website [Low-Level CV](https://lowlevelcv.com/), an information platform dedicated to low-level computer vision (专注底层视觉领域的信息服务平台).
 - *2025.06*: ⚡⚡One paper about ***universal image restoration***, FoundIR, was accepted to ICCV 2025. Welcome to see the paper on [arxiv](https://arxiv.org/abs/2412.01427) and visit our [project page](https://www.foundir.net).
 - *2024.08*: ⚡⚡One paper about ***effcient video super-resolution*** was released on [arxiv](https://arxiv.org/abs/2408.14244).
 - *2024.04*: ⚡⚡One paper about ***video super-resolution*** was released on [arxiv](https://arxiv.org/abs/2404.04745).
