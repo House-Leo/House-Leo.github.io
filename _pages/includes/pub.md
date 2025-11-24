@@ -8,7 +8,7 @@
 #### Image Restoration
 - ***FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration***\
 **Hao Li**\*, [Xiang Chen](https://cschenxiang.github.io)\*, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io) \
-ICCV, 2025. [[project](https://www.foundir.net)] [[paper](https://arxiv.org/abs/2412.01427)] [[supplemental material](https://drive.google.com/file/d/1BkuClommgM5cGHEyH2zDH6KzbHNw8pTg/view?usp=sharing)]
+ICCV, 2025. [[project](https://www.foundir.net)] [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FoundIR_Unleashing_Million-scale_Training_Data_to_Advance_Foundation_Models_for_ICCV_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2412.01427)] [[supplemental material](https://drive.google.com/file/d/1BkuClommgM5cGHEyH2zDH6KzbHNw8pTg/view?usp=sharing)]
 
 #### Image Deraining
 - ***Learning A Sparse Transformer Network for Effective Image Deraining*** **(Highlight)** \
