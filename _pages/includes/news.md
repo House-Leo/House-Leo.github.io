@@ -1,10 +1,9 @@
 # 🔥 News
+- *2026.02*: ⚡⚡One paper about ***video super-resolution***, CFDVSR, was accepted to TPAMI [[pdf](https://ieeexplore.ieee.org/document/11417318)].
 - *2025.07*: 🎉🎉 Welcome to visit our website [Low-Level CV](https://lowlevelcv.com/), an information platform dedicated to low-level computer vision (专注底层视觉领域的信息服务平台).
 - *2025.06*: ⚡⚡One paper about ***universal image restoration***, FoundIR, was accepted to ICCV 2025. Welcome to see the paper on [arxiv](https://arxiv.org/abs/2412.01427) and visit our [project page](https://www.foundir.net).
 - *2024.08*: ⚡⚡One paper about ***effcient video super-resolution*** was released on [arxiv](https://arxiv.org/abs/2408.14244).
-- *2024.04*: ⚡⚡One paper about ***video super-resolution*** was released on [arxiv](https://arxiv.org/abs/2404.04745).
 - *2023.03*: 🎉🎉 Our [paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html) about ***image deraining*** was selected as a <font color=red>highlight</font> at CVPR 2023, congrats to [Xiang](https://cschenxiang.github.io).
-<!-- - *2023.03*: 🎉🎉 I was invited to serve as a reviewer for ICCV 2023. -->
 <!-- - *2023.02*: 🎉🎉 One paper about ***image deraining*** was accpeted by CVPR 2023, congrats to Xiang. -->
 - *2022.12*: 🎉🎉 One paper about ***virtual try-on*** was accpeted by IEEE TMM, congrats to Junyang.
 - *2022.11*: 🎉🎉 One paper about ***image deraining*** was accpeted by AAAI 2023 (Oral), congrats to Xiang.

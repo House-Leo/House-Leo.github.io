@@ -5,12 +5,10 @@
 
 ## Conference
 
-#### Image Restoration
+#### Image / Video Restoration
 - ***FoundIR: Unleashing Million-scale Training Data to Advance Foundation Models for Image Restoration***\
 **Hao Li**\*, [Xiang Chen](https://cschenxiang.github.io)\*, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io) \
 ICCV, 2025. [[project](https://www.foundir.net)] [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Li_FoundIR_Unleashing_Million-scale_Training_Data_to_Advance_Foundation_Models_for_ICCV_2025_paper.html)] [[arxiv](https://arxiv.org/abs/2412.01427)] [[supplemental material](https://drive.google.com/file/d/1BkuClommgM5cGHEyH2zDH6KzbHNw8pTg/view?usp=sharing)]
-
-#### Image Deraining
 - ***Learning A Sparse Transformer Network for Effective Image Deraining*** **(Highlight)** \
 [Xiang Chen](https://cschenxiang.github.io), **Hao Li**, Mingqiang Li, [Jinshan Pan](https://jspan.github.io) \
 CVPR, 2023. [[pdf](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Learning_a_Sparse_Transformer_Network_for_Effective_Image_Deraining_CVPR_2023_paper.html)] [[arxiv](https://arxiv.org/abs/2303.11950)] [[code](https://github.com/cschenxiang/DRSformer)]
@@ -20,21 +18,22 @@ AAAI, 2023. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/25111)] [[co
 
 ## Journal
 
-#### Image Super-Resolution
+#### Image / Video Restoration
+- ***Collaborative Feedback Discriminative Propagation for Video Super-Resolution***\
+**Hao Li**, [Xiang Chen](https://cschenxiang.github.io), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io) \
+IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026. [[arxiv](https://arxiv.org/abs/2404.04745)] [[IEEE](https://ieeexplore.ieee.org/document/11417318)] [[code](https://github.com/House-Leo/CFDVSR)]
 - ***Real-World Image Super-Resolution by Exclusionary Dual-Learning*** \
 **Hao Li**, Jinghui Qin, [Yukai Shi](https://ykshi.github.io), Zhijing Yang, Pengxu Wei, [Jinshan Pan](https://jspan.github.io), [Liang Lin](www.linliang.net) \
 IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/2206.02609)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9792626/)] [[code](https://github.com/House-Leo/RWSR-EDL)]
 - ***Criteria Comparative Learning for Real-scene Image Super-Resolution*** \
 [Yukai Shi](https://ykshi.github.io)\*, **Hao Li**\*, [Sen Zhang](https://scholar.google.com.au/citations?user=-bJJNV0AAAAJ&hl=en), Zhijing Yang, [Xiao Wang](https://wangxiao5791509.github.io/) \
 IEEE Transactions on Circuits and Systems for Video Technology (T-CSVT), 2022. [[arxiv](https://arxiv.org/abs/2207.12767)] [[IEEE](https://ieeexplore.ieee.org/document/9847265)] [[RealSR-Zero dataset](https://github.com/House-Leo/RealSR-Zero)] [[code](https://github.com/House-Leo/RealSR-CCL)]
-- ***Progressive Representation Recalibration for Lightweight Super-resolution*** \
-Ruimian Wen, Zhijing Yang, [Tianshui Chen](http://tianshuichen.com/), **Hao Li**, Kai Li \
-Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231222009080)] [[code](https://github.com/House-Leo/PRRN)]
-
-#### Image Denoising
 - ***DnSwin: Toward Real-World Denoising via Continuous Wavelet Sliding-Transformer*** \
 **Hao Li**, Zhijing Yang, Xiaobin Hong, [Yukai Shi](https://ykshi.github.io), [Junyang Chen](https://jychen9811.github.io/), [Jinshan Pan](https://jspan.github.io) \
 Knowledge-Based Systems (KBS), 2022. [[arxiv](https://arxiv.org/abs/2207.13861)] [[pdf](https://www.sciencedirect.com/science/article/pii/S0950705122009224?via%3Dihub)] [[code](https://github.com/House-Leo/DnSwin)]
+- ***Progressive Representation Recalibration for Lightweight Super-resolution*** \
+Ruimian Wen, Zhijing Yang, [Tianshui Chen](http://tianshuichen.com/), **Hao Li**, Kai Li \
+Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S0925231222009080)] [[code](https://github.com/House-Leo/PRRN)]
 
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
@@ -45,9 +44,6 @@ IEEE Transactions on Multimedia (T-MM), 2022. [[IEEE](https://ieeexplore.ieee.or
 - ***Cascaded Temporal Updating Network for Efficient Video Super-Resolution***\
   **Hao Li**, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinshan Pan](https://jspan.github.io) \
   arxiv, 2024. [[arxiv](https://arxiv.org/abs/2408.14244)]
-- ***Collaborative Feedback Discriminative Propagation for Video Super-Resolution***\
-**Hao Li**, [Xiang Chen](https://cschenxiang.github.io), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io) \
-arxiv, 2024. [[arxiv](https://arxiv.org/abs/2404.04745)] [[code](https://github.com/House-Leo/CFDVSR)]
 
 <!-- #### Point Cloud
 - ***3DPCTN: Two 3D Local-Object Point-Cloud-Completion Transformer Networks Based on Self-Attention and Multi-Resolution*** \

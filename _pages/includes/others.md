@@ -24,4 +24,4 @@
 
 # 👯 Cooperation and Communication
 - NJUST: [Xiang Chen](https://cschenxiang.github.io), [Long Sun](https://github.com/sunny2109), [Haoran Bai](https://csbhr.github.io/), [Junyang Chen](https://jychen9811.github.io/)
-- GDUT: [Dr. Yukai Shi](https://ykshi.github.io)
+- GDUT: [Prof. Yukai Shi](https://ykshi.github.io)
