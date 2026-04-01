@@ -23,7 +23,7 @@ AAAI, 2023. [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/25111)] [[co
 **Hao Li**, [Xiang Chen](https://cschenxiang.github.io), [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao), [Jinhui Tang](https://scholar.google.com/citations?user=ByBLlEwAAAAJ&hl=zh-CN), [Jinshan Pan](https://jspan.github.io) \
 IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI), 2026. [[arxiv](https://arxiv.org/abs/2404.04745)] [[IEEE](https://ieeexplore.ieee.org/document/11417318)] [[code](https://github.com/House-Leo/CFDVSR)]
 - ***Real-World Image Super-Resolution by Exclusionary Dual-Learning*** \
-**Hao Li**, Jinghui Qin, [Yukai Shi](https://ykshi.github.io), Zhijing Yang, Pengxu Wei, [Jinshan Pan](https://jspan.github.io), [Liang Lin](www.linliang.net) \
+**Hao Li**, Jinghui Qin, [Yukai Shi](https://ykshi.github.io), Zhijing Yang, Pengxu Wei, [Jinshan Pan](https://jspan.github.io), [Liang Lin](http://www.linliang.net) \
 IEEE Transactions on Multimedia (T-MM), 2022. [[arxiv](https://arxiv.org/abs/2206.02609)] [[IEEE](https://ieeexplore.ieee.org/abstract/document/9792626/)] [[code](https://github.com/House-Leo/RWSR-EDL)]
 - ***Criteria Comparative Learning for Real-scene Image Super-Resolution*** \
 [Yukai Shi](https://ykshi.github.io)\*, **Hao Li**\*, [Sen Zhang](https://scholar.google.com.au/citations?user=-bJJNV0AAAAJ&hl=en), Zhijing Yang, [Xiao Wang](https://wangxiao5791509.github.io/) \
@@ -37,7 +37,7 @@ Neurocomputing, 2022. [[pdf](https://www.sciencedirect.com/science/article/pii/S
 
 #### Virtual Try-on
 - ***OccluMix: Towards De-Occlusion Virtual Try-on by Semantically-Guided Mixup*** \
-Zhijing Yang, [Junyang Chen](https://jychen9811.github.io/), [Yukai Shi](https://ykshi.github.io), **Hao Li**, [Tianshui Chen](http://tianshuichen.com/), [Liang Lin](www.linliang.net) \
+Zhijing Yang, [Junyang Chen](https://jychen9811.github.io/), [Yukai Shi](https://ykshi.github.io), **Hao Li**, [Tianshui Chen](http://tianshuichen.com/), [Liang Lin](http://www.linliang.net) \
 IEEE Transactions on Multimedia (T-MM), 2022. [[IEEE](https://ieeexplore.ieee.org/document/10007844)] [[code](https://github.com/JyChen9811/DOC-VTON)]
 
 ## Preprint
