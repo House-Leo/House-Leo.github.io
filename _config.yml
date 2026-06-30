@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "House-Lee (Hao Li)"
-description              : "Ph.D. candidate of IMAG, Nanjing University of Science and Technology."
+description              : "Postdoctoral Researcher of SAIL, Sun Yat-sen University."
 repository               : "House-Leo/House-Leo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hao Li"
   avatar           : "images/lihao.jpg"
-  bio              : "Nanjing University of Science and Technology"
-  location         : "Nanjing, China"
+  bio              : "Sun Yat-sen University"
+  location         : "Shenzhen, China"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=x2qkLiYAAAAJ" 
